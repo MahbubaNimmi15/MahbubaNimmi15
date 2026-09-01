@@ -42,7 +42,7 @@ web applications.
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p>
   <a href="YOUR_LINKEDIN_LINK">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="LinkedIn"/>
   </a>
