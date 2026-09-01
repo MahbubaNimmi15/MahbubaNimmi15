@@ -4,7 +4,7 @@ CSE Student | Web Developer
 
 ## 👋 About Me
 
-Hi! I'm Mahbuba Ferdous Nimmi, a Computer Science and Engineering
+I'm Computer Science and Engineering
 student interested in programming and web development.
 
 I enjoy learning new technologies and building useful
