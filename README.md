@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Mahbuba Nimmi
+# 👋 Hi, I'm Mahbuba Ferdous Nimmi
 
 CSE Student | Web Developer
 
 ## 👋 About Me
 
-Hi! I'm Mahbuba Nimmi, a Computer Science and Engineering
+Hi! I'm Mahbuba Ferdous Nimmi, a Computer Science and Engineering
 student interested in programming and web development.
 
 I enjoy learning new technologies and building useful
