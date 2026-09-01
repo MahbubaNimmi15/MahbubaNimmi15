@@ -1,3 +1,5 @@
+![Profile Banner](./banner.png)
+
 # 👋 Hi, I'm Mahbuba Ferdous Nimmi
 
 CSE Student | Web Developer
