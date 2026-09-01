@@ -1,4 +1,9 @@
-## Hi there 👋
+
+Hi! I'm Mahbuba Ferdous Nimmi, a Computer Science and Engineering student
+who enjoys learning programming and building web applications.
+
+I'm currently exploring modern web technologies and improving my
+problem-solving and software development skills.
 
 <!--
 **MahbubaNimmi15/MahbubaNimmi15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
