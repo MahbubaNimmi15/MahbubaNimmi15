@@ -43,7 +43,7 @@ web applications.
 ## 🌐 Connect With Me
 
 <p>
-  <a href="YOUR_LINKEDIN_LINK">
+  <a href="https://www.linkedin.com/in/mahbuba-ferdous-nimmi-1b7985335/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="LinkedIn"/>
   </a>
 </p>
