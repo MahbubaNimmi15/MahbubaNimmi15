@@ -6,8 +6,8 @@ CSE Student | Web Developer
 
 ## 👋 About Me
 
-I'm Computer Science and Engineering
-student interested in programming and web development.
+I'm a Computer Science and Engineering student interested in
+programming and web development.
 
 I enjoy learning new technologies and building useful
 web applications.
@@ -16,20 +16,26 @@ web applications.
 
 - 🌱 Exploring React and Next.js
 - 💻 Building responsive web applications
-- 🌤️ Working on a Weather App
+- 🌤️ Building a Weather App
 - 📚 Improving my JavaScript skills
 - 🧩 Practicing problem solving and programming
-<!--
-**MahbubaNimmi15/MahbubaNimmi15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
+</p>
+
+### Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
