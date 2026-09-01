@@ -1,10 +1,22 @@
+# 👋 Hi, I'm Mahbuba Nimmi
 
-Hi! I'm Mahbuba Ferdous Nimmi, a Computer Science and Engineering student
-who enjoys learning programming and building web applications.
+CSE Student | Web Developer
 
-I'm currently exploring modern web technologies and improving my
-problem-solving and software development skills.
+## 👋 About Me
 
+Hi! I'm Mahbuba Nimmi, a Computer Science and Engineering
+student interested in programming and web development.
+
+I enjoy learning new technologies and building useful
+web applications.
+
+## 🚀 Currently
+
+- 🌱 Exploring React and Next.js
+- 💻 Building responsive web applications
+- 🌤️ Working on a Weather App
+- 📚 Improving my JavaScript skills
+- 🧩 Practicing problem solving and programming
 <!--
 **MahbubaNimmi15/MahbubaNimmi15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
