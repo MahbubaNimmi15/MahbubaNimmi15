@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3d947cf3-31c6-478b-ac19-fc4c8f65a72e" alt="Mahbuba Ferdous Nimmi Banner" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/3d947cf3-31c6-478b-ac19-fc4c8f65a72e" alt="Mahbuba Ferdous Nimmi GitHub Banner" width="100%" />
 </p>
 
 # 👋 Hi, I'm Mahbuba Ferdous Nimmi
@@ -57,14 +57,14 @@
 
 ### 💻 DevStack
 
-A modern web development project designed for developers, featuring useful tools and resources in a clean and responsive interface.
-It provides a user-friendly platform to explore developer-focused content, technologies, and resources.
+A modern web development project designed for developers, featuring useful tools and resources in a clean and responsive interface.  
+It provides a user-friendly platform to explore developer-focused content, technologies, and resources.  
 Built with modern frontend technologies with a focus on usability and responsive design.
 
 ### 🎤 DevConf
 
-A responsive conference website designed for a developer conference, featuring speakers, schedules, tracks, pricing, and registration sections.
-It provides a clean and organized interface for users to explore conference information and events.
+A responsive conference website designed for a developer conference, featuring speakers, schedules, tracks, pricing, and registration sections.  
+It provides a clean and organized interface for users to explore conference information and events.  
 Built with a responsive layout to provide a smooth experience across different screen sizes.
 
 ## 🎯 Current Goals
