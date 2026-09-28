@@ -6,12 +6,12 @@
 
 ## 👩‍💻 About Me
 
-* 🎓 Computer Science & Engineering Student
-* 💻 Interested in Web Development and Software Development
-* 🌱 Currently learning **React, Next.js, TypeScript, Tailwind CSS & MongoDB**
-* 🚀 Building academic and personal projects
-* 🧠 Interested in problem solving and learning new technologies
-* 📚 Always learning and improving my development skills
+- 🎓 Computer Science & Engineering Student
+- 💻 Interested in Web Development and Software Development
+- 🌱 Currently learning **React, Next.js, TypeScript, Tailwind CSS & MongoDB**
+- 🚀 Building academic and personal projects
+- 🧠 Interested in problem solving and learning new technologies
+- 📚 Always learning and improving my development skills
 
 
 
@@ -26,7 +26,6 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
-
 
 
 ## 🖼️ Profile Banner
@@ -81,18 +80,24 @@ A Java-based ATM simulation project using Object-Oriented Programming and Swing.
 
 ### 📊 Customer Churn Prediction
 
-A machine learning project for predicting customer churn using classification algorithms.
-
+A machine learning project that uses classification algorithms to predict customer churn.
 
 
 
 ## 🎯 Current Goals
 
-* 🌱 Improve my React and Next.js skills
-* 🚀 Build more full-stack projects
-* 🧠 Strengthen problem-solving skills
-* 💼 Prepare for a career in software development
-* 📚 Explore modern web technologies
+- 🌱 Improve my React and Next.js skills
+- 🚀 Build more full-stack projects
+- 🧠 Strengthen problem-solving skills
+- 💼 Prepare for a career in software development
+- 📚 Explore modern web technologies
 
 
 
+<p align="center">
+  <i>✨ Building skills today, creating solutions tomorrow.</i>
+</p>
+
+<p align="center">
+  Thanks for visiting my profile! 💜
+</p>
