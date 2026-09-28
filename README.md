@@ -1,57 +1,48 @@
-![Profile Banner](./banner.png)
+👋 Hi, I'm Mahbuba Ferdous Nimmi
 
-# 👋 Hi, I'm Mahbuba Ferdous Nimmi
+💻 Computer Science & Engineering Student
+Web Developer | Programmer
 
-CSE Student | Web Developer
+[About Me]
+🎓 CSE Student
+💻 Web Development
+🌱 Currently learning React, Next.js...
 
-## 👋 About Me
+[📫 Contact Me]
+[Email] [LinkedIn] [GitHub]
 
-I'm a Computer Science and Engineering student interested in
-programming and web development.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-I enjoy learning new technologies and building useful
-web applications.
+          [ YOUR BANNER IMAGE ]
 
-## 🚀 Currently
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-- 🌱 Exploring React and Next.js
-- 💻 Building responsive web applications
-- 🌤️ Building a Weather App
-- 📚 Improving my JavaScript skills
-- 🧩 Practicing problem solving and programming
+🛠️ Skills
 
-## 🛠️ Skills
+🌐 Frontend Development
+[HTML] [CSS] [JavaScript] [TypeScript] [React] [Next.js]
 
-### Languages
+⚙️ Backend & Database
+[Node.js] [Express] [MongoDB] [MySQL]
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
-</p>
+💻 Programming Languages
+[C] [C++] [Java] [Python]
 
-### Web Development
+🔧 Tools
+[Git] [GitHub] [VS Code] [Figma] [Postman]
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
-</p>
+📌 Featured Projects
+🚀 SkillBridge
+💻 DevStack
+🏦 ATM Machine Simulation
+📊 Customer Churn Prediction
 
-### Tools
+📊 GitHub Statistics
+[GitHub Stats]
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+📈 Most Used Languages
+[Language Chart]
 
-## 🌐 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/mahbuba-ferdous-nimmi-1b7985335/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="LinkedIn"/>
-  </a>
-</p>
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahbubaNimmi15&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahbubaNimmi15&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=MahbubaNimmi15&theme=tokyonight)
+🎯 Current Goals
+🌱 Improve React & Next.js
+🚀 Build Full-Stack Projects
