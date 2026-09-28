@@ -66,21 +66,20 @@
 
 ## 📌 Featured Projects
 
-### 🚀 SkillBridge
-
-A full-stack project focused on connecting learners with useful learning resources and opportunities.
-
 ### 💻 DevStack
 
-A web development project exploring modern frontend technologies and developer-focused features.
+A modern web development project designed for developers, featuring useful tools and resources in a clean and responsive interface.
+It provides a user-friendly platform to explore developer-focused content, technologies, and resources.
+Built with modern frontend technologies with a focus on usability and responsive design.
 
-### 🏦 ATM Machine Simulation
 
-A Java-based ATM simulation project using Object-Oriented Programming and Swing.
 
-### 📊 Customer Churn Prediction
+### 🎤 DevConf
 
-A machine learning project that uses classification algorithms to predict customer churn.
+A responsive conference website designed for a developer conference, featuring speakers, schedules, tracks, pricing, and registration sections.
+It provides a clean and organized interface for users to explore conference information and events.
+Built with a responsive layout to provide a smooth experience across different screen sizes.
+
 
 
 
