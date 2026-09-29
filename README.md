@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3d947cf3-31c6-478b-ac19-fc4c8f65a72e" alt="Mahbuba Ferdous Nimmi GitHub Banner" width="100%" />
+  <img src="./banner.png" alt="Mahbuba Ferdous Nimmi GitHub Banner" width="100%" />
 </p>
 
 # 👋 Hi, I'm Mahbuba Ferdous Nimmi
