@@ -6,6 +6,7 @@
 
 ### 💻 Computer Science & Engineering Student | Web Developer | Programmer
 
+
 ## 👩‍💻 About Me
 
 - 🎓 Computer Science & Engineering Student
@@ -15,9 +16,11 @@
 - 🧠 Interested in problem solving and learning new technologies
 - 📚 Always learning and improving my development skills
 
+
+
 ## 📫 Contact Me
 
-<p>
+<p align="left">
   <a href="https://www.linkedin.com/in/mahbuba-ferdous-nimmi-1b7985335/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -26,6 +29,8 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
+
+
 
 ## 🛠️ Skills
 
@@ -53,6 +58,8 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" alt="Tools and Technologies"/>
 </p>
 
+
+
 ## 📌 Featured Projects
 
 ### 💻 DevStack
@@ -67,6 +74,8 @@ A responsive conference website designed for a developer conference, featuring s
 It provides a clean and organized interface for users to explore conference information and events.  
 Built with a responsive layout to provide a smooth experience across different screen sizes.
 
+
+
 ## 🎯 Current Goals
 
 - 🌱 Improve my React and Next.js skills
@@ -75,15 +84,19 @@ Built with a responsive layout to provide a smooth experience across different s
 - 💼 Prepare for a career in software development
 - 📚 Explore modern web technologies
 
----
 
-## 🐍 My Contribution Snake
+
+## 🐍 My Contribution Snake ✨
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MahbubaNimmi15/MahbubaNimmi15/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img 
+    src="https://raw.githubusercontent.com/MahbubaNimmi15/MahbubaNimmi15/output/github-contribution-snake.gif" 
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
 </p>
 
----
+
 
 <p align="center">
   <i>✨ Building skills today, creating solutions tomorrow.</i>
