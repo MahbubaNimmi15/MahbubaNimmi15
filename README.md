@@ -75,6 +75,16 @@ Built with a responsive layout to provide a smooth experience across different s
 - 💼 Prepare for a career in software development
 - 📚 Explore modern web technologies
 
+---
+
+## 🐍 My Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MahbubaNimmi15/MahbubaNimmi15/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
 <p align="center">
   <i>✨ Building skills today, creating solutions tomorrow.</i>
 </p>
